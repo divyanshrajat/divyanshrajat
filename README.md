@@ -74,7 +74,7 @@
 **Technology mix across featured projects** · number of tools used across CheckReality AI, ULPF, NyayaVault and the AI Plagiarism Detector
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"pie1": "#0A1F44", "pie2": "#1565C0", "pie3": "#42A5F5", "pie4": "#D14836", "pie5": "#90A4AE", "pieSectionTextColor": "#ffffff", "pieLegendTextColor": "#7d8590", "pieStrokeColor": "#ffffff", "pieOuterStrokeWidth": "0px", "pieSectionTextSize": "15px", "pieLegendTextSize": "15px"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#0A1F44", "pie2": "#1565C0", "pie3": "#42A5F5", "pie4": "#D14836", "pie5": "#90A4AE", "pieSectionTextColor": "#ffffff", "pieLegendTextColor": "#7d8590", "pieStrokeColor": "#ffffff", "pieOuterStrokeWidth": "0px", "pieOpacity": "1", "pieSectionTextSize": "15px", "pieLegendTextSize": "15px"}}}%%
 pie showData
     "AI/ML models & libraries" : 8
     "Databases & streaming" : 5
@@ -86,6 +86,7 @@ pie showData
 **Journey so far**
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "15px", "lineColor": "#7d8590", "cScale0": "#0A1F44", "cScale1": "#1565C0", "cScale2": "#1E88E5", "cScale3": "#D14836", "cScale4": "#0D47A1", "cScaleLabel0": "#ffffff", "cScaleLabel1": "#ffffff", "cScaleLabel2": "#ffffff", "cScaleLabel3": "#ffffff", "cScaleLabel4": "#ffffff"}}}%%
 timeline
     2023 : Started B.Tech CSE at BBSBEC (IKGPTU)
     2024 : NLP review presented at the 37th National Convention of Computer Engineers
