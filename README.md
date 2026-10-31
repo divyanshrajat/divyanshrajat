@@ -65,6 +65,44 @@
 
 ---
 
+### 📊 Stats & insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=divyanshrajat&background=00000000&ring=1565C0&fire=D14836&currStreakNum=1565C0&currStreakLabel=1565C0&sideNums=7d8590&sideLabels=7d8590&dates=7d8590&stroke=7d859055&hide_border=true" alt="GitHub contribution streak for divyanshrajat" />
+</p>
+
+**Technology mix across featured projects** · number of tools used across CheckReality AI, ULPF, NyayaVault and the AI Plagiarism Detector
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#0A1F44", "pie2": "#1565C0", "pie3": "#42A5F5", "pie4": "#D14836", "pie5": "#90A4AE", "pieSectionTextColor": "#ffffff", "pieLegendTextColor": "#7d8590", "pieStrokeColor": "#ffffff", "pieOuterStrokeWidth": "0px", "pieSectionTextSize": "15px", "pieLegendTextSize": "15px"}}}%%
+pie showData
+    "AI/ML models & libraries" : 8
+    "Databases & streaming" : 5
+    "Web & frontend" : 5
+    "Backend frameworks" : 4
+    "DevOps" : 1
+```
+
+**Journey so far**
+
+```mermaid
+timeline
+    2023 : Started B.Tech CSE at BBSBEC (IKGPTU)
+    2024 : NLP review presented at the 37th National Convention of Computer Engineers
+    2025 : Responsible AI review presented at ICIAI 2025 (IEEE Chandigarh Section)
+         : NIELIT certifications in ML & Python and Cyber Security
+         : 3rd place at Saviskar 2025
+    2026 : Built the AI Plagiarism Detector
+         : Lead Coordinator, College Tech Fest
+         : Responsible AI review published in IJISE
+         : SIH 2026 Grand Finalist on two problem statements (ULPF and NyayaVault)
+         : CheckReality AI capstone
+    2027 : B.Tech graduation
+```
+
+---
+
+
 ### 📄 Research
 
 - **Ethical and Responsible AI: A Comprehensive Review of Principles, Methods, and Tools**: *International Journal of Information Security Engineering (IJISE)*, Vol. 4, Issue 1, 2026. Presented at ICIAI 2025 (IEEE Chandigarh Section).
