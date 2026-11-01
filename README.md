@@ -35,20 +35,9 @@
 <a href="https://youtu.be/QRrKFV5rzgk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/d-plagiarism.svg"><img src="assets/light/d-plagiarism.svg" width="49%" alt="Watch the AI Plagiarism Detector demo"></picture></a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/h-stats.svg"><img src="assets/light/h-stats.svg" width="100%" alt="Live GitHub stats"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stats.svg"><img src="assets/light/stats.svg" width="100%" alt="GitHub stats for the last 12 months: contributions, streaks, repositories and top languages"></picture></p>
 
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=divyanshrajat&show_icons=true&include_all_commits=true&count_private=true&border_radius=18&hide_title=false&bg_color=0F141E&title_color=3CF0B4&text_color=C3CAD8&icon_color=4CC9F0&border_color=232C3F"><img src="https://github-readme-stats.vercel.app/api?username=divyanshrajat&show_icons=true&include_all_commits=true&count_private=true&border_radius=18&hide_title=false&bg_color=FFFFFF&title_color=0BA67A&text_color=2E3747&icon_color=1287B8&border_color=E1E6EE" height="170" alt="GitHub stats"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrajat&layout=compact&langs_count=8&border_radius=18&bg_color=0F141E&title_color=3CF0B4&text_color=C3CAD8&icon_color=4CC9F0&border_color=232C3F"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrajat&layout=compact&langs_count=8&border_radius=18&bg_color=FFFFFF&title_color=0BA67A&text_color=2E3747&icon_color=1287B8&border_color=E1E6EE" height="170" alt="Top languages"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=divyanshrajat&border_radius=18&background=0F141E&ring=3CF0B4&fire=FFB547&currStreakNum=EEF1F6&currStreakLabel=3CF0B4&sideNums=EEF1F6&sideLabels=8C95A8&dates=8C95A8&stroke=232C3F&border=232C3F"><img src="https://streak-stats.demolab.com/?user=divyanshrajat&border_radius=18&background=FFFFFF&ring=0BA67A&fire=C27A00&currStreakNum=0B0F17&currStreakLabel=0BA67A&sideNums=0B0F17&sideLabels=5E687A&dates=5E687A&stroke=E1E6EE&border=E1E6EE" width="100%" alt="Contribution streak"></picture>
-</p>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrajat&area=true&hide_border=false&radius=18&custom_title=Contribution%20activity&bg_color=0F141E&color=C3CAD8&title_color=EEF1F6&line=3CF0B4&point=FFB547&area_color=3CF0B4&border_color=232C3F"><img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshrajat&area=true&hide_border=false&radius=18&custom_title=Contribution%20activity&bg_color=FFFFFF&color=2E3747&title_color=0B0F17&line=0BA67A&point=C27A00&area_color=0BA67A&border_color=E1E6EE" width="100%" alt="Contribution activity graph"></picture>
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg"><img src="assets/light/activity.svg" width="100%" alt="Contribution heatmap for the last year"></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/research.svg"><img src="assets/light/research.svg" width="100%" alt="Research papers and recognition"></picture></p>
 
